@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+}
+.col{
+    display: flex;
+}
+.button{
+    text-align: center;
+    margin-top: 40px;
+    
+}
+.row{
+    border: 1px solid black;
+    height: 150px;
+    background-color: lightgray;
+}
+.admin-image{
+    width: 130px;
+    margin: 10px;
+    object-fit: contain;
+}
+.admin-name{
+    margin-left: 26px;
+}
+button{
+    height: 30px;
+    width: 120px;
+    border-radius: 0px;
+    background-color: #FF6103;
+    margin: 3px;
+    border: 1px solid black;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: white;
+
+}
+.text-center{
+    text-align: center;
+}
+
+.logo{
+    height: 50px;
+    width: 100px;
+    object-fit: contain;
+    margin-left: 50px;
+}
+.navbar-lg{
+    float: right;
+}
+.container-fluid{
+    background-color:#FF6103 ;
+    
+}
+
+.navigation{
+    text-decoration: none;
+    margin-right: 100px;
+}
+.navbar-nav{
+    list-style: none;
+}

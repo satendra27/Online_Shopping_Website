@@ -1,0 +1,22 @@
+tr{
+    text-align: center;
+    border: 1px solid black;
+}
+table th{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: #FF6103;
+    color: white;
+    
+}
+table td{
+    border: 1px solid black;
+    padding: 8px;
+}
+table{
+    border-collapse: collapse;
+    margin-left: 230px;
+}
+h1{
+    text-align: center;
+}
